@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Testgit : MonoBehaviour
 {
+    // this is a test code
     // Start is called before the first frame update
     void Start()
     {
